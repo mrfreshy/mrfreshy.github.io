@@ -10,6 +10,31 @@
     <id>https://mrfreshy.github.io/mrfreshy.github.io</id>
 
     <entry>
+        <title>Google it!</title>
+        <author>
+            <name>MrFreshy</name>
+        </author>
+        <link href="https://mrfreshy.github.io/mrfreshy.github.io/google-it.html"/>
+        <id>https://mrfreshy.github.io/mrfreshy.github.io/google-it.html</id>
+
+        <updated>2020-07-29T14:58:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    There are communities online surrounding pretty much any subject that you can think of. These places can be a wonderful place for like-minded people to gather to share information about a particular subject. These places (various subreddits, hashtags on Twitter, even facebook groups) sometimes enable&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://cdn.pixabay.com/photo/2016/10/20/08/39/keyboard-1754906_960_720.jpg" data-is-external-image="true"  alt="" width="902" height="600"></figure>
+<p>There are communities online surrounding pretty much any subject that you can think of. These places can be a wonderful place for like-minded people to gather to share information about a particular subject. These places (various subreddits, hashtags on Twitter, even facebook groups) sometimes enable a fringe interest to survive or even thrive.</p>
+<p>Unfortunately in a lot of cases there is a barrier to entry to the community that you are wanting access to. "Gatekeeping" is something that is mentioned frequently, and it can take different forms. In the tech areas, one of the most popular forms of gatekeeping is to tell someone to "Google it". When a new person wants to become part of a community, or at least wants to feel it out to see if it fits them, being told to find their own answers can be very off-putting and may lead them to abandon their interest. </p>
+<p>In a lot of cases, especially in more advanced or esoteric subjects, telling someone to find their own answers can be nearly insurmountable due to one thing that most subjects have that creates a barrier to entry whether intentional or not - jargon. Someone with great Google skills will still fail if they have no idea what they are searching for. A lot of times a newbie needs a push toward what to search for. I don't like to find the information for someone if I can help it, but I like to nudge them in the right direction so that they can help themselves in the future. </p>
+<p>A lot of times, people are gatekeepers without really realizing it because they forget that people that are new to their domain really don't know anything about it. Some communities gatekeep more than others, and I don't know if it is more intentional in some subjects than others, but it feels like DIY car and home communities are more inviting to new people than tech-focused ones are. </p>
+<p>Everybody was new sometime. Some questions can be annoying after answering them for the eleventybillionth time, but if you love what you are interested in, and you want that interest to thrive and survive long-term, help the noobs learn how to help themselves. Create a FAQ for your community if you can and point people to that to help push people toward helping themselves. Take a look at what you are doing and how you are providing things every now and again to see if anything changed or needs to be changed. Don't assume that you are working with a dummy just because they don't know what a common term is because it isn't common until it is.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Making websites was never my forte</title>
         <author>
             <name>MrFreshy</name>
@@ -17,7 +42,7 @@
         <link href="https://mrfreshy.github.io/mrfreshy.github.io/making-websites-was-never-my-forte-2.html"/>
         <id>https://mrfreshy.github.io/mrfreshy.github.io/making-websites-was-never-my-forte-2.html</id>
 
-        <updated>2020-07-29T14:31:21-04:00</updated>
+        <updated>2020-07-29T14:58:20-04:00</updated>
             <summary>
                 <![CDATA[
                     I have been involved with tech pretty deeply over multiple decades, and have at times wanted to have a place to post up my thoughts about random topics. For some reason, making websites has never made lot of sense to me. I have never wanted&hellip;
