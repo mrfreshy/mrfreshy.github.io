@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Spaghetti Out The Window",
+    "description": "",
+    "home_page_url": "https://mrfreshy.github.io/mrfreshy.github.io",
+    "feed_url": "https://mrfreshy.github.io/mrfreshy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MrFreshy"
+    },
+    "items": [
+        {
+            "id": "https://mrfreshy.github.io/mrfreshy.github.io/making-websites-was-never-my-forte-2.html",
+            "url": "https://mrfreshy.github.io/mrfreshy.github.io/making-websites-was-never-my-forte-2.html",
+            "title": "Making websites was never my forte",
+            "summary": "I have been involved with tech pretty deeply over multiple decades, and have at times wanted to have a place to post up my thoughts about random topics. For some reason, making websites has never made lot of sense to me. I have never wanted&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/coketurkey.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-xs.jpg 300w ,https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-sm.jpg 480w ,https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-md.jpg 768w ,https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-lg.jpg 1024w ,https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-xl.jpg 1360w ,https://mrfreshy.github.io/mrfreshy.github.io/media/posts/3/responsive/coketurkey-2xl.jpg 1600w\"  alt=\"\"></figure>\n<p>I have been involved with tech pretty deeply over multiple decades, and have at times wanted to have a place to post up my thoughts about random topics. For some reason, making websites has never made lot of sense to me. I have never wanted to take the time to learn how to code a site. </p>\n<p>There have been multiple attempts at using this tool or that tool, but even this far into the timeline of websites being a thing, it still isn't EASY. WYSIWYG editing is supposed to make it simple to make what you look at as you design into a presentable website. Every attempt I have made over the years has ended up an exercise in frustration and an abandoned project.</p>\n<p>Getting text posted up seems easy enough, but adding a photo can be maddening. I don't get it, and don't actually want to get it. There are not many topics that I actively just don't want to know, but this is one of them. </p>\n<p>All of that being blah'd, here I am again with an attempt at making something happen. I am using a tool that seems to be okay, but we shall see once I attempt to add an image here and then publish.</p>",
+            "author": {
+                "name": "MrFreshy"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-29T14:29:04-04:00",
+            "date_modified": "2020-07-29T14:29:04-04:00"
+        }
+    ]
+}
